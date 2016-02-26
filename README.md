@@ -1,1 +1,1 @@
-Testing out hooks. 1, 2, 3
+Testing out hooks. 1, 2
